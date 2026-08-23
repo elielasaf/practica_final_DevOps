@@ -1,7 +1,5 @@
-# Entornos virtuales
 venv/
 
-# Cachés y archivos temporales de pruebas y Python
 __pycache__/
 .pytest_cache/
 *.py[cod]
